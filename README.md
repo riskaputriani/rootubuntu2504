@@ -1,5 +1,7 @@
 # Foxytoux Installer
 
+# REF: https://github.com/foxytouxxx/freeroot
+
 ## Overview
 
 This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
@@ -15,20 +17,21 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 1. Clone the repository:
 
-    ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
-    cd freeroot
-    ```
+   ```sh
+   git clone https://github.com/riskaputriani/rootubuntu2504.git && cd rootubuntu2504 && bash root.sh
+   ```
 
 2. Run the installer script:
 
-    ```sh
-    ./root.sh
-    ```
-    or
-    ```sh
-    bash root.sh
-    ```
+   ```sh
+   ./root.sh
+   ```
+
+   or
+
+   ```sh
+   bash root.sh
+   ```
 
 ## Supported Architectures
 
