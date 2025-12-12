@@ -92,6 +92,7 @@ if [ ! -e "$ROOTFS_DIR/.installed" ]; then
   touch "$ROOTFS_DIR/.installed"
 fi
 
+clear
 # Banner (plain)
 log "___________________________________________________"
 log ""
