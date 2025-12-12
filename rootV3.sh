@@ -124,3 +124,5 @@ exec "$ROOTFS_DIR/usr/local/bin/proot" \
   -b /etc/resolv.conf:/etc/resolv.conf \
   --kill-on-exit \
   "$ROOT_SHELL"
+
+echo "hello"
